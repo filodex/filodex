@@ -7,7 +7,7 @@ Hi, I'm @filodex!
 
 
 
-filodex@gmail.com
+
 -------------------------
 - 👀 I’m interested in trading
 - 🌱 I’m currently learning javascript and Python
