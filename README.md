@@ -15,7 +15,7 @@ Hi, I'm @filodex!
 - 📫 How to reach me: @filodex (Telegram), filodex@gmail.com
 
 ## 🛠️ My Favorite Tools
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming and Markup Languages
 
 <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
@@ -25,7 +25,7 @@ Hi, I'm @filodex!
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
-  ## GitHub Stats
+
   
   
 
