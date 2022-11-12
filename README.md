@@ -27,9 +27,7 @@ Hi, I'm @filodex!
 </p>
 
   
-  
-
-
+|                                                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------------: |
 | ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=filodex&theme=react-dark&hide_border=true&area=true) |
 |        ![github stats](https://github-readme-stats.vercel.app/api?username=filodex&show_icons=true&theme=algolia)        |
